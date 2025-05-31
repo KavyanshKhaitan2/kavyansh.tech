@@ -9,13 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+ * **Kavyansh Khaitan**
+ * Tinsukia, Assam
+ * (+91) 79906-17889
+ * kavyanshkhaitan11@gmail.com
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in GitHub, GitHub University, 2012 -->
+* Class 10 (expected)
+  * Delhi Public School Dibrugarh
+  * April 2027
+  <!-- * Percentage: XX.XX% -->
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -30,18 +39,20 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Able to assemble a basic UI using HTML/Flowbite/TailwindCSS
+* Python
+  * Tkinter _(Able to create desktop apps with a GUI)_
+  * Django _(Able to create a completely functional web app)_
+    * TailwindCSS
+    * Celery _(Task queue)_
+  * _... And much more ..._
+<!-- * Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +72,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

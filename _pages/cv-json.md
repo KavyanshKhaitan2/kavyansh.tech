@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv-json/
+permalink: /&disabled/ThisPageIsDisabled/DoNotAccess/930ik0jd902jd90i1jd901jd90jd901jd901jd/
 author_profile: false
 redirect_from:
   - /resume-json
